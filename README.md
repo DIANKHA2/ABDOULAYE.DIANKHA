@@ -13,6 +13,18 @@ My profile combines **software engineering, business intelligence, data engineer
 
 ---
 
+## 🤝 Professional Aptitudes
+
+- Strong analytical and critical thinking  
+- High autonomy and problem-solving ability  
+- Excellent teamwork and communication skills  
+- Adaptability in complex technical environments  
+- Strong learning capacity and curiosity  
+- Results-oriented mindset with strong sense of responsibility  
+
+---
+
+
 ## 🧠 Core Skills & Expertise
 
 ### 💻 Software Engineering
@@ -44,6 +56,114 @@ My profile combines **software engineering, business intelligence, data engineer
 - DevOps culture
 - Secure systems
 - Data access control
+
+---
+
+## 🛠️ Tools, Systems & Programming Languages
+
+### 🗄️ Database Management Systems
+- Oracle | SQL Server | MongoDB
+
+### 🧩 Data Modeling & Design
+- Relational databases  
+- Decision-oriented data warehouses  
+- Distributed databases  
+
+### 📊 Business Intelligence Tools
+- SSIS | SSAS | SSRS | MDX  
+- Talend Open Studio  
+- Power BI | Power Query | Power Pivot | DAX  
+- SharePoint | KoboToolbox  
+
+### 🤖 AI & Advanced Analytics
+- Data Mining | Text Mining  
+- Machine Learning | Deep Learning  
+
+### 🌐 Web Development
+**Backend**
+- Java (Spring Boot)  
+- Python (Django, Streamlit)  
+- PHP (Laravel, Symfony)  
+- C# (.NET, MVC)
+
+**Frontend**
+- HTML | CSS | Bootstrap  
+- JavaScript | Angular  
+- WordPress  
+
+### 📱 Mobile Development
+- Java  
+- Flutter  
+
+### 📈 Data Manipulation & Scientific Computing
+- Advanced SQL  
+- Advanced Python  
+- R | MATLAB  
+
+### ⚙️ DevOps & Automation
+- Jenkins | GitLab CI  
+- Docker | Ansible  
+- Bash / Shell scripting  
+
+### 🖥️ Systems & Networking
+- Linux | Windows Server (AD DS, DNS, DHCP)  
+- Git  
+- Networking: VLAN, Trunking, STP, EtherChannel, Routing, ACL, NAT  
+
+### 🔄 Data Engineering Ecosystem
+- Apache Spark (Scala)  
+- Hadoop (Java)  
+- Kafka | Airflow  
+
+---
+
+## 💼 Professional Experience
+
+### 🔹 SOBOA — Data & Web Developer Intern  
+🗓️ Jun 2023 – Dec 2024
+
+- Developed a dynamic **web application for industrial data analysis** with real-time KPI monitoring  
+- Designed BI dashboards for operational and strategic decision-making  
+- Implemented **data collection systems using KoboToolbox**  
+- Automated reporting pipelines for management  
+
+**Skills acquired:**  
+SQL Server · OLAP · Talend · Power BI · DAX · PHP · APIs · Data Modeling
+
+---
+
+### 🔹 WEBRAM — Full Stack Developer Intern  
+🗓️ Oct 2022 – May 2023
+
+- Developed a **secure physical mail management system** using Spring Boot and Angular  
+- Built inventory and sales management tools  
+- Created and published digital content  
+
+**Skills acquired:**  
+Spring Boot · Angular · REST APIs · JWT · GitLab · CMS
+
+---
+
+## 🎓 Academic Experience & Research Projects
+
+### 🔹 Université du Québec en Outaouais (UQO)
+
+- **Content-Based Image Retrieval (CBIR)** system using MATLAB  
+- **AI system for diabetes diagnosis** using Python & Streamlit  
+- **Advanced telecommunications simulations** with NS-3  
+- **Role-Based Access Control (RBAC)** system with Active Directory  
+
+---
+
+### 🔹 Université Cheikh Anta Diop (UCAD)
+
+- **Master’s Thesis – Business Intelligence**  
+  COVID-19 survival prediction and deployment of a decision-support web application  
+
+- **Bachelor’s Thesis – Computer Science**  
+
+- **Text Mining Project**  
+  Intelligent CV filtering system using NLP techniques  
 
 ---
 
