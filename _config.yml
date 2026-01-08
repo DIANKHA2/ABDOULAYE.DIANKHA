@@ -1,4 +1,5 @@
 logo: ./hg.JPG
 description: "Mon Portfolio"
 show_downloads: true
+theme: jekyll-theme-minimal
 lang: fr
