@@ -177,7 +177,7 @@ Spring Boot · Angular · REST APIs · JWT · GitLab · CMS
 
 ### 🔹 Projets Flutter  
 📱 Cross-platform mobile development  
-🔗 https://github.com/DIANKHA2/Projets-Flutter  
+🔗 https://github.com/DIANKHA2/flutterProjects  
 Mobile applications developed with Flutter, focusing on modern UI, performance, and maintainability.
 
 ---
