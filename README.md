@@ -191,7 +191,7 @@ Web application developed with Django, demonstrating backend logic, routing, and
 
 ### 🔹 Premier projet de Laravel  
 🌐 PHP web application (MVC)  
-🔗 https://github.com/DIANKHA2/Premier-projet-de-Laravel  
+🔗 https://github.com/DIANKHA2/First-projet-of-laravel  
 Backend web application using Laravel, illustrating routing, controllers, and structured development.
 
 ---
