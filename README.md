@@ -49,7 +49,7 @@ My profile combines **software engineering, business intelligence, data engineer
 
 ## 📂 Portfolio — Projects by Domain
 
-All repositories are grouped by specialization to provide a **clear and recruiter-friendly overview**.
+
 
 ---
 
