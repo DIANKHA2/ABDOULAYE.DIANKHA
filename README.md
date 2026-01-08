@@ -244,14 +244,14 @@ Angular-based frontend connected to a Spring Boot backend.
 
 ### 🔹 Mémoire Master 2 – Business Intelligence  
 📘 Academic research (PDF)  
-🔗 https://github.com/DIANKHA2/Mémoire-master-2-Business-intelligence  
+🔗 https://github.com/DIANKHA2/Memoire-master-2-Business-intelligence  
 Graduate-level thesis focused on BI systems, architectures, and decision-making processes.
 
 ---
 
 ### 🔹 MES REPORTING pour la prise de décision  
 📈 Decision-support reporting  
-🔗 https://github.com/DIANKHA2/MES-REPORTING-pour-la-prise-de-décision  
+🔗 https://github.com/DIANKHA2/MES-REPORTING-pour-la-prise-de-decision  
 Reporting system designed to support performance monitoring and managerial decisions.
 
 ---
@@ -265,7 +265,7 @@ Evaluation and optimization of decision-support system performance.
 
 ### 🔹 Projet Business Intelligence avec automatisation personnalisée  
 ⚙️ Automated BI workflows  
-🔗 https://github.com/DIANKHA2/projet-Bussiness-Intelligence-avec-automatisation-personnaliser  
+🔗 https://github.com/DIANKHA2/projet-Bussiness-Intelligence-avec-automatisation-personalise
 Automation of BI processes to improve efficiency and reliability of analysis.
 
 ---
@@ -297,7 +297,7 @@ Text mining and NLP project focusing on preprocessing, analysis, and insight ext
 
 ### 🔹 Projet traitement et valorisation d’image  
 🖼️ Image processing  
-🔗 https://github.com/DIANKHA2/Projet-traitement-et-valorisation-dimage  
+🔗 https://github.com/DIANKHA2/Projet-tratement-et-valorisation-dimage 
 Image processing project aimed at extracting and valorizing information from visual data.
 
 ---
@@ -315,7 +315,7 @@ Implementation of access control mechanisms to protect sensitive data.
 
 ### 🔹 Mémoire DEVOPS – CI/CD (TDSI)  
 🚀 DevOps practices  
-🔗 https://github.com/DIANKHA2/Mémoire-DEVOPS_CICD-TDSI  
+🔗 https://github.com/DIANKHA2/Memoire-DEVOPS_CICD-TDSI  
 Academic work focused on CI/CD pipelines, automation, and DevOps culture.
 
 ---
