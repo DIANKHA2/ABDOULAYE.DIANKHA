@@ -191,7 +191,7 @@ Spring Boot · Angular · REST APIs · JWT · GitLab · CMS
 ## 🧩 Software Engineering & Application Development
 
 ### 🔹 Projets Flutter  
-🔗 https://github.com/DIANKHA2/Projets-Flutter  
+🔗 https://github.com/DIANKHA2/flutterProjects
 Cross-platform mobile applications with modern UI and optimized performance.
 
 ### 🔹 Projet Django Python  
@@ -199,7 +199,7 @@ Cross-platform mobile applications with modern UI and optimized performance.
 Backend web application demonstrating MVC architecture and business logic.
 
 ### 🔹 Premier projet de Laravel  
-🔗 https://github.com/DIANKHA2/Premier-projet-de-Laravel  
+🔗 https://github.com/DIANKHA2/First-projet-of-laravel 
 Structured backend web development using Laravel MVC.
 
 ### 🔹 ProjetWindowsDotNet  
@@ -214,11 +214,88 @@ Native Android application demonstrating mobile fundamentals.
 🔗 https://github.com/DIANKHA2/Projet-dentreprise-dapplication-MS-EMBOUTEILLAGE  
 Enterprise software solution for industrial process management.
 
+### 🔹 librairy-api-flask-draft  
+🔗 https://github.com/DIANKHA2/librairy-api-flask-draft 
+
+### 🔹 projet Logiciel de mémoire licence  
+🔗 https://github.com/DIANKHA2/projet_Logiciel_de_memoire_licence  
+
 ---
 
-## ☁️ Backend Systems & Microservices
+## ☁️ Backend And front-end Systems & Microservices
 
 ### 🔹 ProjetMicroServices avec Spring Boot  
 🔗 https://github.com/DIANKHA2/ProjetMicroServices-avec-spring-boot  
 
-### 🔹 back
+### 🔹 backend courrier physique avec Spring Boot  
+🔗 https://github.com/DIANKHA2/backend_courrier_physique-avec-spring-boot  
+
+### 🔹 front-end courrier physique avec Angular  
+🔗 https://github.com/DIANKHA2/front-end_courrier_physique-avec-Angular  
+ 
+
+---
+
+## 📊 Business Intelligence & Decision Support
+
+### 🔹 Mémoire Master 2 – Business Intelligence  
+🔗 https://github.com/DIANKHA2/Memoire-master-2-Business-intelligence 
+
+### 🔹 MES REPORTING pour la prise de décision  
+🔗 https://github.com/DIANKHA2/MES-REPORTING-pour-la-prise-de-decision 
+
+### 🔹 Projet Performance Système Décisionnel  
+🔗 https://github.com/DIANKHA2/Projet_Performance_Systeme_decisionnel  
+
+### 🔹 Projet BI avec automatisation personnalisée  
+🔗 https://github.com/DIANKHA2/projet-Bussiness-Intelligence-avec-automatisation-personalise
+
+---
+
+## 🗄️ Data Engineering & Integration
+
+### 🔹 Projet Talend – Data Integration  
+🔗 https://github.com/DIANKHA2/Projet-dexploitation-et-de-valorisation-de-donnee-sur-Talend-Open-Studio-for-Data-Integration  
+
+---
+
+## 🧠 Data Science & Artificial Intelligence
+
+### 🔹 Projet de Texte Mining – NLP  
+🔗 https://github.com/DIANKHA2/Projet-de-Texte-Mining-NLP  
+
+### 🔹 Projet traitement et valorisation d’image  
+🔗 https://github.com/DIANKHA2/Projet-tratement-et-valorisation-dimage  
+
+---
+
+## 🔐 Security & Data Access Control
+
+### 🔹 Projet de Systèmes de contrôle d’accès aux données  
+🔗 https://github.com/DIANKHA2/Projet-de-Systemes-de-controle-dacces-aux-donnees  
+
+---
+
+## ⚙️ DevOps & CI/CD
+
+### 🔹 Mémoire DEVOPS – CI/CD  
+🔗 https://github.com/DIANKHA2/Memoire-DEVOPS_CICD-TDSI
+
+
+
+## 🎯 Career Objective
+
+I am actively seeking a **master’s internship in Canada** to apply my skills in **Business Intelligence, Data Engineering, Data Science, and Software Engineering**, contribute to **innovative digital projects**, and support **data-driven and sustainable decision-making**.
+
+---
+
+## 📫 Contact
+
+- 🌍 GitHub: https://github.com/DIANKHA2  
+- 💼 LinkedIn: https://www.linkedin.com/in/elhadji-abdoulaye-diankha-053325193/  
+- 📧 Email: abdoulayediankha44@gmail.com  
+
+---
+
+⭐ Thank you for visiting my GitHub portfolio.  
+I am open to **internships, collaborations, and impactful data-driven projects**.
