@@ -5,11 +5,47 @@
 🎓 Master’s student in **Information Science and Technology**  
 📍 **Université du Québec en Outaouais (UQO), Canada**
 
-Welcome to my GitHub portfolio.  
-I am a **computer engineer** with hands-on experience in designing **secure, scalable, and data-driven solutions**.  
-My profile combines **software engineering, business intelligence, data engineering, and data science**, with a strong focus on **decision support, performance optimization, and sustainable digital transformation**.
+Welcome to my GitHub portfolio. 
+💡 Computer engineer with hands-on experience in designing **secure, scalable, and data-driven solutions**.
+I combine **software engineering, business intelligence, data engineering, and data science** to transform raw data into **actionable insights** that support **strategic decision-making and sustainable digital transformation**.
+
+J'aime travailler sur des **projets de bout en bout**, depuis la collecte et le traitement des données jusqu'à leur analyse, leur visualisation et leur déploiement.
 
 🌱 Curious, motivated, and committed to **continuous learning**, I am currently seeking a **master’s internship in Canada** where I can contribute to innovative projects, leverage data for strategic decision-making, and create **measurable business and social impact**.
+
+---
+
+## 🧠 Core Skills & Expertise
+
+### 💻 Software Engineering
+- Backend application development
+- Microservices architecture
+- Clean and maintainable code
+- Web, desktop, and mobile applications
+
+### 📊 Business Intelligence
+- Decision-support systems
+- Performance reporting
+- BI automation
+- Analytical dashboards and indicators
+
+### 🗄️ Data Engineering
+- ETL pipelines
+- Data integration and transformation
+- Large-scale data processing
+- Data quality and consistency
+
+### 🧠 Data Science & AI
+- Text Mining & NLP
+- Image processing
+- Data analysis and interpretation
+- Applied AI concepts
+
+### ⚙️ DevOps & Security
+- CI/CD concepts
+- DevOps culture
+- Secure systems
+- Data access control
 
 ---
 
