@@ -301,7 +301,10 @@ Enterprise software solution for industrial process management.
 🔗 https://github.com/DIANKHA2/Projet-de-Texte-Mining-NLP  
 
 ### 🔹 Projet traitement et valorisation d’image  
-🔗 https://github.com/DIANKHA2/Projet-tratement-et-valorisation-dimage  
+🔗 https://github.com/DIANKHA2/Projet-tratement-et-valorisation-dimage
+
+### 🔹 Projet de la Conception d’un systeme d'apprentissage suppervisé   
+🔗 https://github.com/DIANKHA2/Projet-Technique-dapprentissage-/tree/main
 
 ---
 
